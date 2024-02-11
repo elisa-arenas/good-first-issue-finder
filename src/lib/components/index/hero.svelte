@@ -12,6 +12,6 @@
     Your entry point for finding good first issues in the EddieHub Organization and in the community
   </h2>
   <div class="flex justify-center">
-    <Link variant="primary" href="/app">Get started</Link>
+    <Link variant="primary" href="/app">Get started!</Link>
   </div>
 </div>
